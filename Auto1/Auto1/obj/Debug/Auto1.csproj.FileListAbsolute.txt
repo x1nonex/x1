@@ -1,0 +1,7 @@
+C:\Users\super\source\repos\Auto1\Auto1\bin\Debug\Auto1.exe.config
+C:\Users\super\source\repos\Auto1\Auto1\bin\Debug\Auto1.exe
+C:\Users\super\source\repos\Auto1\Auto1\bin\Debug\Auto1.pdb
+C:\Users\super\source\repos\Auto1\Auto1\obj\Debug\Auto1.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Auto1\Auto1\obj\Debug\Auto1.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Auto1\Auto1\obj\Debug\Auto1.exe
+C:\Users\super\source\repos\Auto1\Auto1\obj\Debug\Auto1.pdb
